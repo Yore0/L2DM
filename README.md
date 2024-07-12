@@ -1,11 +1,11 @@
 <h1 >L<sup>2</sup>DM: A Diffusion Model for Low-Light Image Enhancement</h1>
 
 <p>
-This paper presents L<sup>2</sup>DM, a novel framework for low-light image enhancement using diffusion models. 
-  [paper](https://github.com/Yore0/L2DM/blob/master/PRCV2023_L2DM.pdf)
+This paper presents L<sup>2</sup>DM, a novel framework for low-light image enhancement using diffusion models. <a href="https://github.com/Yore0/L2DM/blob/master/PRCV2023_L2DM.pdf" target="_blank">PAPER</a>
+
 <img src=https://github.com/Yore0/L2DM/blob/master/pic1.png>
-  
 </p>
+
 
 ## Requirements
 A suitable conda environment can be created and activated with:
